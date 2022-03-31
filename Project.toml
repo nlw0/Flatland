@@ -1,0 +1,4 @@
+name = "Flatland"
+uuid = "00a0622f-f81b-4f2d-a6f7-68c1b1af17c6"
+authors = ["Nicolau Leal Werneck <nwerneck@gmail.com>"]
+version = "0.1.0"
